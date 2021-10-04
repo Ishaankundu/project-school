@@ -115,8 +115,11 @@ width: 200px;
 }
 #name {
     height: 50px;
-    width: 500px;
+    width: 1300px;
     color: aqua;
     background-color: chocolate;
+    text-align: center;
+}
+body {
     text-align: center;
 }
